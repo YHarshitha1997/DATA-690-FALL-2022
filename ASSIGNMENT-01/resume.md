@@ -29,7 +29,7 @@
 2. Event and gaming coordinator at my undergrad college.
 3. Member of NSS Group.
 
-## Courses Completed:
+## Courses Completed
 1. **DATA-601**: Introduction to Data Science
 2. **DATA-602**: Introduction To Data Analysis and Machine Learning
 3. **DATA-603**: Platforms for Big Data Processing
@@ -37,16 +37,16 @@
 5. **DATA-605**: Ethical And Legal Issues in Data Science
 6. **HIT-663**: Health Informatics
 
-## Undergoing Courses:
+## Undergoing Courses
 1. **DATA-690**: Stats & Visualization
 2. **DATA-690**: Artificial Intelligence Pract
 3. **ENM-652**: Management, Leadership and Communication
 
-## Languages Known:
+## Languages Known
 1. Telugu
 2. English
 
-## Hobbies and Interests:
+## Hobbies and Interests
 1. Dancing
 2. Playing Badminton & CO-CO
 3. Watching Movies
