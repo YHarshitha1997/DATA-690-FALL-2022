@@ -1,7 +1,7 @@
 <img src="https://github.com/YHarshitha1997/DATA-690-FALL-2022/blob/main/ASSIGNMENT-01/IMG_2801.jpeg" height="300">
 
 ## Profile
-* **Name**: Harshitha Yentrapragada
+- **Name**: Harshitha Yentrapragada
 * **Gmail**: harshithayentra.1997@gmail.com
 * **GitHub**: "https://github.com/YHarshitha1997?tab=repositories"
 * **LinkedIn**: "https://www.linkedin.com/in/harshitha-yentrapragada-0a13b321b/"
