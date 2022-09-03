@@ -1,4 +1,4 @@
-<img src="https://github.com/YHarshitha1997/DATA-690-FALL-2022/blob/main/ASSIGNMENT-01/IMG_2801.jpeg" height="350">
+<img src="https://github.com/YHarshitha1997/DATA-690-FALL-2022/blob/main/ASSIGNMENT-01/IMG_2801.jpeg" height="250">
 
 ## Profile
 * **Name**: Harshitha Yentrapragada
