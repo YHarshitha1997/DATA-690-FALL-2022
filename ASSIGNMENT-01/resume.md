@@ -3,8 +3,8 @@
 ## Profile
 * **Name**: Harshitha Yentrapragada
 * **Gmail**: harshithayentra.1997@gmail.com
-* **GitHub**: "https://github.com/YHarshitha1997?tab=repositories"
-* **LinkedIn**: "https://www.linkedin.com/in/harshitha-yentrapragada-0a13b321b/"
+* **GitHub**: https://github.com/YHarshitha1997?tab=repositories
+* **LinkedIn**: https://www.linkedin.com/in/harshitha-yentrapragada-0a13b321b/
 
 ## Summary
 * I love communicating with people in different cultures and environments.
