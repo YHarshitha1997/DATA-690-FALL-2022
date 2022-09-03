@@ -7,47 +7,47 @@
 * **LinkedIn**: "https://www.linkedin.com/in/harshitha-yentrapragada-0a13b321b/"
 
 ## Summary
-1. I love communicating with people in different cultures and environments.
-2. Want to be a future data scentist.
-3. Flexible to work in any place.
+* I love communicating with people in different cultures and environments.
+* Want to be a future data scentist.
+* Flexible to work in any place.
 
 ## Education
-1. **MPS** in "DATA SCEINCE", University Of Maryland Baltimore County, MD.
-2. **BTech** in "Computer Science and Engineering", Sasi Institute of Technology and Engineering, MD.
+* **MPS** in "DATA SCEINCE", University Of Maryland Baltimore County, MD.
+* **BTech** in "Computer Science and Engineering", Sasi Institute of Technology and Engineering, MD.
 
 ## Skills
-1. **Programming**: Python, SQL, Stats and Visualization, Machine Learning, pyspark.
-2. **Web Development**: HTML, CSS
-3. **Software**: Microsoft Office (Word, PowerPoint, Excel), Eclipse, Anaconda, MongoDB
-4. **Operating Systems**: Windows, IOS
+* **Programming**: Python, SQL, Stats and Visualization, Machine Learning, pyspark.
+* **Web Development**: HTML, CSS
+* **Software**: Microsoft Office (Word, PowerPoint, Excel), Eclipse, Anaconda, MongoDB
+* **Operating Systems**: Windows, IOS
 
 ## Work Experience
-1. **Senior Analyst**: Wipro limited, Hyderabad.
-2. **Quality Analyst**: Wipro limited, Hyderabad.
+* **Senior Analyst**: Wipro limited, Hyderabad.
+* **Quality Analyst**: Wipro limited, Hyderabad.
 
 ## Leadership Experience
-1. Chargers team member, the association which is responsible for conducting cultural and social events in the workplace.
-2. Event and gaming coordinator at my undergrad college.
-3. Member of NSS Group.
+* Chargers team member, the association which is responsible for conducting cultural and social events in the workplace.
+* Event and gaming coordinator at my undergrad college.
+* Member of NSS Group.
 
 ## Courses Completed
-1. **DATA-601**: Introduction to Data Science
-2. **DATA-602**: Introduction To Data Analysis and Machine Learning
-3. **DATA-603**: Platforms for Big Data Processing
-4. **DATA-604**: Data Management
-5. **DATA-605**: Ethical And Legal Issues in Data Science
-6. **HIT-663**: Health Informatics
+* **DATA-601**: Introduction to Data Science
+* **DATA-602**: Introduction To Data Analysis and Machine Learning
+* **DATA-603**: Platforms for Big Data Processing
+* **DATA-604**: Data Management
+* **DATA-605**: Ethical And Legal Issues in Data Science
+* **HIT-663**: Health Informatics
 
 ## Undergoing Courses
-1. **DATA-690**: Stats & Visualization
-2. **DATA-690**: Artificial Intelligence Pract
-3. **ENM-652**: Management, Leadership and Communication
+* **DATA-690**: Stats & Visualization
+* **DATA-690**: Artificial Intelligence Pract
+* **ENM-652**: Management, Leadership and Communication
 
 ## Languages Known
-1. Telugu
-2. English
+* Telugu
+* English
 
 ## Hobbies and Interests
-1. Dancing
-2. Playing Badminton & CO-CO
-3. Watching Movies
+* Dancing
+* Playing Badminton & CO-CO
+* Watching Movies
