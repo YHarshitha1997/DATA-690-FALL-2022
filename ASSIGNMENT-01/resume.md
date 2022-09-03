@@ -41,3 +41,12 @@
 1. **DATA-690**: Stats & Visualization
 2. **DATA-690**: Artificial Intelligence Pract
 3. **ENM-652**: Management, Leadership and Communication
+
+## Languages Known:
+1. Telugu
+2. English
+
+## Hobbies and Interests:
+1. Dancing
+2. Playing Badminton & CO-CO
+3. Watching Movies
