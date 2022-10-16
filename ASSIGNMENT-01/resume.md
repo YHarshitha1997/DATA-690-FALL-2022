@@ -50,4 +50,4 @@
 ## Hobbies and Interests
 * Dancing
 * Playing Badminton & CO-CO
-* Watching Movies
+* Watching Movies.
