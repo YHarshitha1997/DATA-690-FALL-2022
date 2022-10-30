@@ -1,5 +1,5 @@
 ### Does a country’s Economic growth reduce the country’s poverty?
-Here I want to check wether the econominc growth of a country reduce the poverty in the country. I've choosen this beacuse now a days there is lot of increase in the economic growth in some countries through the world. But while observing the growth of the country, in some courtries there is no reduction in the poverty as itt remains same. I've choosen two indicators to compare economy growth among few countries.  
+Here I want to check wether the econominc growth of a country reduce the poverty in the country. I've choosen this beacuse now a days there is lot of increase in the economic growth in some countries through the world. But while observing the growth of the country, in some courtries there is no reduction in the poverty as itt remains same. I've choosen two indicators to compare economy growth among few countries. This is very
 ### Data: 
 - https://www.worlddev.xyz
 ### Topic and Indicators:
