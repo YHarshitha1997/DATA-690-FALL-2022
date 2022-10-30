@@ -12,14 +12,18 @@ Here I want to check wether the econominc growth of a country reduce the poverty
 - I Used G20 filter to pick countries.
 1. Argentina
 2. Australia
-3. Canada 
+3. Brazil
 4. Germany
 5. France
 6. United kingdom
-7. Korean, Rep
-8. Mexico
-9. Turkiye
-10. United States
+7. Italy
+8. Japan
+9. Korean, Rep
+10. Mexico
+11. Russian federation
+12. Turkiye
+13. United States
+14. South Africa
 ### Time Span
 - 2010 to 2020
 ### Comparison in between countries in the year 2010 using visualisation.
@@ -28,4 +32,4 @@ Here I want to check wether the econominc growth of a country reduce the poverty
 - Pie Plot: Here the pie plot shows the values and percentages of the countries with respect to the GDP Per Capita among the proportion of the people below 50% of median income.
 - <img src = "https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/blob/main/data690_world_dev/charts/Pie%20plot%20with%20respect%20to%20GDP%20in%20the%20year%202010.png">
 - Bar plot: Here the bar plot shows the GDP among the people of 50% meadian income from the year 2008 to 2020.
-- <img src = "">
+- <img src = "https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/blob/main/data690_world_dev/charts/gdp%20from%20the%20year(2008-2020)png.png">
