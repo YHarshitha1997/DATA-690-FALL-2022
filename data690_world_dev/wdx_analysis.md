@@ -20,4 +20,7 @@ Here I want to check wether the econominc growth of a country reduce the poverty
 10. United States
 ### Time Span
 - 2010 to 2020
+### Comparison in between countries using visualisation.
+- Scatter Plot: Here it shows the comparison between 14 countries. Where it shows the GDP per capita with respect to the year 2010.
+- <img src = "https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/blob/main/data690_world_dev/charts/gdp%20percapita%20scattrerplot(2010).png">
 
