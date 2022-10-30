@@ -27,9 +27,11 @@ Here I want to check wether the econominc growth of a country reduce the poverty
 ### Time Span
 - 2010 to 2020
 ### Comparison in between countries in the year 2010 using visualisation.
-- Scatter Plot: Here it shows the comparison between 14 countries. Where it shows the GDP per capita with respect to the year 2010.
-- <img src = "https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/blob/main/data690_world_dev/charts/gdp%20percapita%20scattrerplot(2010).png">
-- Pie Plot: Here the pie plot shows the values and percentages of the countries with respect to the GDP Per Capita among the proportion of the people below 50% of median income.
-- <img src = "https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/blob/main/data690_world_dev/charts/Pie%20plot%20with%20respect%20to%20GDP%20in%20the%20year%202010.png">
-- Bar plot: Here the bar plot shows the GDP among the people of 50% meadian income from the year 2008 to 2020.
-- <img src = "https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/blob/main/data690_world_dev/charts/gdp%20from%20the%20year(2008-2020)png.png">
+Bar Plot: Here it shows the comparison in between the countries in the year 2010.
+<img src = "https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/blob/main/data690_world_dev/charts/gdp(2010).png">
+Scatter Plot: Here it shows the comparison between 14 countries. Where it shows the GDP per capita with respect to the year 2010.
+<img src = "https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/blob/main/data690_world_dev/charts/gdp%20percapita%20scattrerplot(2010).png">
+Pie Plot: Here the pie plot shows the values and percentages of the countries with respect to the GDP Per Capita among the proportion of the people below 50% of median income.
+<img src = "https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/blob/main/data690_world_dev/charts/Pie%20plot%20with%20respect%20to%20GDP%20in%20the%20year%202010.png">
+Bar plot: Here the bar plot shows the GDP among the people of 50% meadian income from the year 2008 to 2020.
+<img src = "https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/blob/main/data690_world_dev/charts/gdp%20from%20the%20year(2008-2020)png.png">
