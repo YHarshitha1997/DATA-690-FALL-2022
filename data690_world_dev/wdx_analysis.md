@@ -35,3 +35,5 @@ Pie Plot: Here the pie plot shows the values and percentages of the countries wi
 <img src = "https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/blob/main/data690_world_dev/charts/Pie%20plot%20with%20respect%20to%20GDP%20in%20the%20year%202010.png">
 Bar plot: Here the bar plot shows the GDP among the people of 50% meadian income from the year 2008 to 2020.
 <img src = "https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/blob/main/data690_world_dev/charts/gdp%20from%20the%20year(2008-2020)png.png">
+lineplot: Here the line plot shows the people living with the median income among the countries
+<img src = "">
