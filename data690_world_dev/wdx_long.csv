@@ -1,0 +1,382 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2008,3.0295006519,NY.GDP.PCAP.KD.ZG,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+1,2009,-6.8542250552,NY.GDP.PCAP.KD.ZG,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+2,2010,9.3001229225,NY.GDP.PCAP.KD.ZG,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+3,2011,4.7886831386,NY.GDP.PCAP.KD.ZG,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+4,2012,-2.1452844498,NY.GDP.PCAP.KD.ZG,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+5,2013,1.2656851754,NY.GDP.PCAP.KD.ZG,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+6,2014,-3.5785805098,NY.GDP.PCAP.KD.ZG,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+7,2015,1.6296642795,NY.GDP.PCAP.KD.ZG,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+8,2016,-3.1100638982,NY.GDP.PCAP.KD.ZG,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+9,2017,1.7576481827000001,NY.GDP.PCAP.KD.ZG,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+10,2018,-3.6016097566000003,NY.GDP.PCAP.KD.ZG,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+11,2019,-2.9943878886,NY.GDP.PCAP.KD.ZG,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+12,2020,-10.7651077297,NY.GDP.PCAP.KD.ZG,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+13,2008,1.5219695366,NY.GDP.PCAP.KD.ZG,AUS,Australia,East Asia & Pacific,High income,Not classified
+14,2009,-0.21120114950000002,NY.GDP.PCAP.KD.ZG,AUS,Australia,East Asia & Pacific,High income,Not classified
+15,2010,0.5953537271,NY.GDP.PCAP.KD.ZG,AUS,Australia,East Asia & Pacific,High income,Not classified
+16,2011,1.0557478769,NY.GDP.PCAP.KD.ZG,AUS,Australia,East Asia & Pacific,High income,Not classified
+17,2012,2.118897029,NY.GDP.PCAP.KD.ZG,AUS,Australia,East Asia & Pacific,High income,Not classified
+18,2013,0.8494169927,NY.GDP.PCAP.KD.ZG,AUS,Australia,East Asia & Pacific,High income,Not classified
+19,2014,1.0444896406,NY.GDP.PCAP.KD.ZG,AUS,Australia,East Asia & Pacific,High income,Not classified
+20,2015,0.712256478,NY.GDP.PCAP.KD.ZG,AUS,Australia,East Asia & Pacific,High income,Not classified
+21,2016,1.1493474640999999,NY.GDP.PCAP.KD.ZG,AUS,Australia,East Asia & Pacific,High income,Not classified
+22,2017,0.587161103,NY.GDP.PCAP.KD.ZG,AUS,Australia,East Asia & Pacific,High income,Not classified
+23,2018,1.302840712,NY.GDP.PCAP.KD.ZG,AUS,Australia,East Asia & Pacific,High income,Not classified
+24,2019,0.5711029884000001,NY.GDP.PCAP.KD.ZG,AUS,Australia,East Asia & Pacific,High income,Not classified
+25,2020,-1.2785262834,NY.GDP.PCAP.KD.ZG,AUS,Australia,East Asia & Pacific,High income,Not classified
+26,2008,4.0544106638,NY.GDP.PCAP.KD.ZG,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+27,2009,-1.0819423687,NY.GDP.PCAP.KD.ZG,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+28,2010,6.5243700557,NY.GDP.PCAP.KD.ZG,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+29,2011,3.0264019693,NY.GDP.PCAP.KD.ZG,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+30,2012,1.0145408212,NY.GDP.PCAP.KD.ZG,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+31,2013,2.1088858481,NY.GDP.PCAP.KD.ZG,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+32,2014,-0.352483145,NY.GDP.PCAP.KD.ZG,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+33,2015,-4.351475066,NY.GDP.PCAP.KD.ZG,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+34,2016,-4.0694109238,NY.GDP.PCAP.KD.ZG,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+35,2017,0.5083379803,NY.GDP.PCAP.KD.ZG,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+36,2018,0.9889600326,NY.GDP.PCAP.KD.ZG,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+37,2019,0.46290368660000003,NY.GDP.PCAP.KD.ZG,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+38,2020,-4.5614625072,NY.GDP.PCAP.KD.ZG,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+39,2008,-0.08029483870000001,NY.GDP.PCAP.KD.ZG,CAN,Canada,North America,High income,Not classified
+40,2009,-4.0304198487,NY.GDP.PCAP.KD.ZG,CAN,Canada,North America,High income,Not classified
+41,2010,1.9496281894,NY.GDP.PCAP.KD.ZG,CAN,Canada,North America,High income,Not classified
+42,2011,2.1423090095,NY.GDP.PCAP.KD.ZG,CAN,Canada,North America,High income,Not classified
+43,2012,0.6632479949,NY.GDP.PCAP.KD.ZG,CAN,Canada,North America,High income,Not classified
+44,2013,1.2536138132999999,NY.GDP.PCAP.KD.ZG,CAN,Canada,North America,High income,Not classified
+45,2014,1.8410261243,NY.GDP.PCAP.KD.ZG,CAN,Canada,North America,High income,Not classified
+46,2015,-0.0892858011,NY.GDP.PCAP.KD.ZG,CAN,Canada,North America,High income,Not classified
+47,2016,-0.1358426213,NY.GDP.PCAP.KD.ZG,CAN,Canada,North America,High income,Not classified
+48,2017,1.8112789168,NY.GDP.PCAP.KD.ZG,CAN,Canada,North America,High income,Not classified
+49,2018,1.3355642852,NY.GDP.PCAP.KD.ZG,CAN,Canada,North America,High income,Not classified
+50,2019,0.42691785330000004,NY.GDP.PCAP.KD.ZG,CAN,Canada,North America,High income,Not classified
+51,2020,-6.3192223699,NY.GDP.PCAP.KD.ZG,CAN,Canada,North America,High income,Not classified
+52,2008,9.0902801015,NY.GDP.PCAP.KD.ZG,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+53,2009,8.8559476756,NY.GDP.PCAP.KD.ZG,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+54,2010,10.1028326227,NY.GDP.PCAP.KD.ZG,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+55,2011,8.9538160418,NY.GDP.PCAP.KD.ZG,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+56,2012,7.1345237775,NY.GDP.PCAP.KD.ZG,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+57,2013,7.0507341338,NY.GDP.PCAP.KD.ZG,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+58,2014,6.7507603159,NY.GDP.PCAP.KD.ZG,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+59,2015,6.4207364772,NY.GDP.PCAP.KD.ZG,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+60,2016,6.2382154478,NY.GDP.PCAP.KD.ZG,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+61,2017,6.3018631005,NY.GDP.PCAP.KD.ZG,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+62,2018,6.2517005557,NY.GDP.PCAP.KD.ZG,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+63,2019,5.575316863,NY.GDP.PCAP.KD.ZG,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+64,2020,1.9966190139000002,NY.GDP.PCAP.KD.ZG,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+65,2008,-0.3037596571,NY.GDP.PCAP.KD.ZG,FRA,France,Europe & Central Asia,High income,Not classified
+66,2009,-3.3717372055,NY.GDP.PCAP.KD.ZG,FRA,France,Europe & Central Asia,High income,Not classified
+67,2010,1.4470081316,NY.GDP.PCAP.KD.ZG,FRA,France,Europe & Central Asia,High income,Not classified
+68,2011,1.699612965,NY.GDP.PCAP.KD.ZG,FRA,France,Europe & Central Asia,High income,Not classified
+69,2012,-0.1712067298,NY.GDP.PCAP.KD.ZG,FRA,France,Europe & Central Asia,High income,Not classified
+70,2013,0.0599163797,NY.GDP.PCAP.KD.ZG,FRA,France,Europe & Central Asia,High income,Not classified
+71,2014,0.47907757230000003,NY.GDP.PCAP.KD.ZG,FRA,France,Europe & Central Asia,High income,Not classified
+72,2015,0.7540243523,NY.GDP.PCAP.KD.ZG,FRA,France,Europe & Central Asia,High income,Not classified
+73,2016,0.8290566645,NY.GDP.PCAP.KD.ZG,FRA,France,Europe & Central Asia,High income,Not classified
+74,2017,1.9949984473,NY.GDP.PCAP.KD.ZG,FRA,France,Europe & Central Asia,High income,Not classified
+75,2018,1.5858788060000002,NY.GDP.PCAP.KD.ZG,FRA,France,Europe & Central Asia,High income,Not classified
+76,2019,1.6203584528000001,NY.GDP.PCAP.KD.ZG,FRA,France,Europe & Central Asia,High income,Not classified
+77,2020,-8.0343792091,NY.GDP.PCAP.KD.ZG,FRA,France,Europe & Central Asia,High income,Not classified
+78,2008,1.1520297422,NY.GDP.PCAP.KD.ZG,DEU,Germany,Europe & Central Asia,High income,Not classified
+79,2009,-5.4545771694,NY.GDP.PCAP.KD.ZG,DEU,Germany,Europe & Central Asia,High income,Not classified
+80,2010,4.3396067771,NY.GDP.PCAP.KD.ZG,DEU,Germany,Europe & Central Asia,High income,Not classified
+81,2011,5.8696357375,NY.GDP.PCAP.KD.ZG,DEU,Germany,Europe & Central Asia,High income,Not classified
+82,2012,0.2301609927,NY.GDP.PCAP.KD.ZG,DEU,Germany,Europe & Central Asia,High income,Not classified
+83,2013,0.163870563,NY.GDP.PCAP.KD.ZG,DEU,Germany,Europe & Central Asia,High income,Not classified
+84,2014,1.7843418861,NY.GDP.PCAP.KD.ZG,DEU,Germany,Europe & Central Asia,High income,Not classified
+85,2015,0.6171053532,NY.GDP.PCAP.KD.ZG,DEU,Germany,Europe & Central Asia,High income,Not classified
+86,2016,1.4081020755,NY.GDP.PCAP.KD.ZG,DEU,Germany,Europe & Central Asia,High income,Not classified
+87,2017,2.2972060474,NY.GDP.PCAP.KD.ZG,DEU,Germany,Europe & Central Asia,High income,Not classified
+88,2018,0.7826900473,NY.GDP.PCAP.KD.ZG,DEU,Germany,Europe & Central Asia,High income,Not classified
+89,2019,0.8278647792,NY.GDP.PCAP.KD.ZG,DEU,Germany,Europe & Central Asia,High income,Not classified
+90,2020,-4.6475449764,NY.GDP.PCAP.KD.ZG,DEU,Germany,Europe & Central Asia,High income,Not classified
+91,2008,1.5875983043000002,NY.GDP.PCAP.KD.ZG,IND,India,South Asia,Lower middle income,IBRD
+92,2009,6.351088271,NY.GDP.PCAP.KD.ZG,IND,India,South Asia,Lower middle income,IBRD
+93,2010,7.0423476699,NY.GDP.PCAP.KD.ZG,IND,India,South Asia,Lower middle income,IBRD
+94,2011,3.8939660407,NY.GDP.PCAP.KD.ZG,IND,India,South Asia,Lower middle income,IBRD
+95,2012,4.1656730523,NY.GDP.PCAP.KD.ZG,IND,India,South Asia,Lower middle income,IBRD
+96,2013,5.1350745064,NY.GDP.PCAP.KD.ZG,IND,India,South Asia,Lower middle income,IBRD
+97,2014,6.1866795127,NY.GDP.PCAP.KD.ZG,IND,India,South Asia,Lower middle income,IBRD
+98,2015,6.7967590643,NY.GDP.PCAP.KD.ZG,IND,India,South Asia,Lower middle income,IBRD
+99,2016,7.0822275831,NY.GDP.PCAP.KD.ZG,IND,India,South Asia,Lower middle income,IBRD
+100,2017,5.6657811488,NY.GDP.PCAP.KD.ZG,IND,India,South Asia,Lower middle income,IBRD
+101,2018,5.3547568501,NY.GDP.PCAP.KD.ZG,IND,India,South Asia,Lower middle income,IBRD
+102,2019,2.6920898267,NY.GDP.PCAP.KD.ZG,IND,India,South Asia,Lower middle income,IBRD
+103,2020,-7.5156749924,NY.GDP.PCAP.KD.ZG,IND,India,South Asia,Lower middle income,IBRD
+104,2008,4.6200336754,NY.GDP.PCAP.KD.ZG,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+105,2009,3.2473282385,NY.GDP.PCAP.KD.ZG,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+106,2010,4.8122730676,NY.GDP.PCAP.KD.ZG,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+107,2011,4.7483185326,NY.GDP.PCAP.KD.ZG,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+108,2012,4.6064855222,NY.GDP.PCAP.KD.ZG,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+109,2013,4.1514282286,NY.GDP.PCAP.KD.ZG,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+110,2014,3.6390723028,NY.GDP.PCAP.KD.ZG,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+111,2015,3.5550624954,NY.GDP.PCAP.KD.ZG,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+112,2016,3.7588373321,NY.GDP.PCAP.KD.ZG,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+113,2017,3.8411972644,NY.GDP.PCAP.KD.ZG,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+114,2018,3.9878248609,NY.GDP.PCAP.KD.ZG,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+115,2019,3.8725597904,NY.GDP.PCAP.KD.ZG,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+116,2020,-3.1026517194,NY.GDP.PCAP.KD.ZG,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+117,2008,-1.6159406274,NY.GDP.PCAP.KD.ZG,ITA,Italy,Europe & Central Asia,High income,Not classified
+118,2009,-5.7115083828,NY.GDP.PCAP.KD.ZG,ITA,Italy,Europe & Central Asia,High income,Not classified
+119,2010,1.400915343,NY.GDP.PCAP.KD.ZG,ITA,Italy,Europe & Central Asia,High income,Not classified
+120,2011,0.5342874396,NY.GDP.PCAP.KD.ZG,ITA,Italy,Europe & Central Asia,High income,Not classified
+121,2012,-3.24206012,NY.GDP.PCAP.KD.ZG,ITA,Italy,Europe & Central Asia,High income,Not classified
+122,2013,-2.9724038,NY.GDP.PCAP.KD.ZG,ITA,Italy,Europe & Central Asia,High income,Not classified
+123,2014,-0.9178138798000001,NY.GDP.PCAP.KD.ZG,ITA,Italy,Europe & Central Asia,High income,Not classified
+124,2015,0.8754774018,NY.GDP.PCAP.KD.ZG,ITA,Italy,Europe & Central Asia,High income,Not classified
+125,2016,1.4656904443,NY.GDP.PCAP.KD.ZG,ITA,Italy,Europe & Central Asia,High income,Not classified
+126,2017,1.8203338519,NY.GDP.PCAP.KD.ZG,ITA,Italy,Europe & Central Asia,High income,Not classified
+127,2018,1.1178166198,NY.GDP.PCAP.KD.ZG,ITA,Italy,Europe & Central Asia,High income,Not classified
+128,2019,1.6657365514,NY.GDP.PCAP.KD.ZG,ITA,Italy,Europe & Central Asia,High income,Not classified
+129,2020,-8.597873461,NY.GDP.PCAP.KD.ZG,ITA,Italy,Europe & Central Asia,High income,Not classified
+130,2008,-1.2721099489,NY.GDP.PCAP.KD.ZG,JPN,Japan,East Asia & Pacific,High income,Not classified
+131,2009,-5.6814523403,NY.GDP.PCAP.KD.ZG,JPN,Japan,East Asia & Pacific,High income,Not classified
+132,2010,4.0792230484,NY.GDP.PCAP.KD.ZG,JPN,Japan,East Asia & Pacific,High income,Not classified
+133,2011,0.2092518028,NY.GDP.PCAP.KD.ZG,JPN,Japan,East Asia & Pacific,High income,Not classified
+134,2012,1.5367866588,NY.GDP.PCAP.KD.ZG,JPN,Japan,East Asia & Pacific,High income,Not classified
+135,2013,2.1523710656,NY.GDP.PCAP.KD.ZG,JPN,Japan,East Asia & Pacific,High income,Not classified
+136,2014,0.4293811225,NY.GDP.PCAP.KD.ZG,JPN,Japan,East Asia & Pacific,High income,Not classified
+137,2015,1.6684651171,NY.GDP.PCAP.KD.ZG,JPN,Japan,East Asia & Pacific,High income,Not classified
+138,2016,0.8053628246000001,NY.GDP.PCAP.KD.ZG,JPN,Japan,East Asia & Pacific,High income,Not classified
+139,2017,1.7586118016,NY.GDP.PCAP.KD.ZG,JPN,Japan,East Asia & Pacific,High income,Not classified
+140,2018,0.7117701984,NY.GDP.PCAP.KD.ZG,JPN,Japan,East Asia & Pacific,High income,Not classified
+141,2019,-0.1001250108,NY.GDP.PCAP.KD.ZG,JPN,Japan,East Asia & Pacific,High income,Not classified
+142,2020,-4.2255553409,NY.GDP.PCAP.KD.ZG,JPN,Japan,East Asia & Pacific,High income,Not classified
+143,2008,2.2337522598,NY.GDP.PCAP.KD.ZG,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+144,2009,0.2752689803,NY.GDP.PCAP.KD.ZG,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+145,2010,6.2740198887,NY.GDP.PCAP.KD.ZG,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+146,2011,2.8914119943000003,NY.GDP.PCAP.KD.ZG,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+147,2012,1.8655994960000002,NY.GDP.PCAP.KD.ZG,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+148,2013,2.6961509613,NY.GDP.PCAP.KD.ZG,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+149,2014,2.5562195088,NY.GDP.PCAP.KD.ZG,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+150,2015,2.2684294007,NY.GDP.PCAP.KD.ZG,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+151,2016,2.5391447288,NY.GDP.PCAP.KD.ZG,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+152,2017,2.8701969615,NY.GDP.PCAP.KD.ZG,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+153,2018,2.4622462161,NY.GDP.PCAP.KD.ZG,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+154,2019,1.8889146004000001,NY.GDP.PCAP.KD.ZG,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+155,2020,-0.9886318190000001,NY.GDP.PCAP.KD.ZG,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+156,2008,-0.3576329749,NY.GDP.PCAP.KD.ZG,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+157,2009,-6.6741653782,NY.GDP.PCAP.KD.ZG,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+158,2010,3.6171903311999998,NY.GDP.PCAP.KD.ZG,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+159,2011,2.2271634775,NY.GDP.PCAP.KD.ZG,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+160,2012,2.2471398302,NY.GDP.PCAP.KD.ZG,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+161,2013,0.0294527951,NY.GDP.PCAP.KD.ZG,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+162,2014,1.5440351069,NY.GDP.PCAP.KD.ZG,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+163,2015,2.0190368837,NY.GDP.PCAP.KD.ZG,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+164,2016,1.4030206734,NY.GDP.PCAP.KD.ZG,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+165,2017,0.9314565416,NY.GDP.PCAP.KD.ZG,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+166,2018,1.0503142171,NY.GDP.PCAP.KD.ZG,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+167,2019,-1.2693219795,NY.GDP.PCAP.KD.ZG,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+168,2020,-9.134043843,NY.GDP.PCAP.KD.ZG,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+169,2008,5.2462100183,NY.GDP.PCAP.KD.ZG,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+170,2009,-7.8277499767,NY.GDP.PCAP.KD.ZG,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+171,2010,4.4530963983,NY.GDP.PCAP.KD.ZG,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+172,2011,4.2187233385,NY.GDP.PCAP.KD.ZG,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+173,2012,3.8491519351,NY.GDP.PCAP.KD.ZG,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+174,2013,1.5389735174,NY.GDP.PCAP.KD.ZG,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+175,2014,-1.0452620385,NY.GDP.PCAP.KD.ZG,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+176,2015,-2.1838854716,NY.GDP.PCAP.KD.ZG,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+177,2016,0.0102479204,NY.GDP.PCAP.KD.ZG,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+178,2017,1.7093856941999999,NY.GDP.PCAP.KD.ZG,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+179,2018,2.8155241074,NY.GDP.PCAP.KD.ZG,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+180,2019,2.2439795166,NY.GDP.PCAP.KD.ZG,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+181,2020,-2.4807294277,NY.GDP.PCAP.KD.ZG,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+182,2008,3.3606906753,NY.GDP.PCAP.KD.ZG,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+183,2009,-4.7873185944,NY.GDP.PCAP.KD.ZG,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+184,2010,2.0088817486,NY.GDP.PCAP.KD.ZG,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+185,2011,6.7043710318,NY.GDP.PCAP.KD.ZG,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+186,2012,2.2032787853,NY.GDP.PCAP.KD.ZG,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+187,2013,-0.36662760710000003,NY.GDP.PCAP.KD.ZG,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+188,2014,0.7539706441,NY.GDP.PCAP.KD.ZG,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+189,2015,1.4770454452,NY.GDP.PCAP.KD.ZG,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+190,2016,-0.6037310035,NY.GDP.PCAP.KD.ZG,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+191,2017,-2.7138527034,NY.GDP.PCAP.KD.ZG,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+192,2018,0.6843494207,NY.GDP.PCAP.KD.ZG,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+193,2019,-1.3227258256,NY.GDP.PCAP.KD.ZG,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+194,2020,-5.6392953203000005,NY.GDP.PCAP.KD.ZG,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+195,2008,1.8234972238,NY.GDP.PCAP.KD.ZG,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+196,2009,-2.8987326378000002,NY.GDP.PCAP.KD.ZG,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+197,2010,1.551072639,NY.GDP.PCAP.KD.ZG,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+198,2011,1.6076653682000002,NY.GDP.PCAP.KD.ZG,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+199,2012,0.7897215894,NY.GDP.PCAP.KD.ZG,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+200,2013,0.8543441977,NY.GDP.PCAP.KD.ZG,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+201,2014,-0.1797005989,NY.GDP.PCAP.KD.ZG,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+202,2015,-0.21880118070000001,NY.GDP.PCAP.KD.ZG,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+203,2016,-0.8063112666000001,NY.GDP.PCAP.KD.ZG,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+204,2017,-0.2653006531,NY.GDP.PCAP.KD.ZG,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+205,2018,0.1130214776,NY.GDP.PCAP.KD.ZG,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+206,2019,-1.1960914412,NY.GDP.PCAP.KD.ZG,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+207,2020,-7.6158755016,NY.GDP.PCAP.KD.ZG,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+208,2008,-0.38292261650000003,NY.GDP.PCAP.KD.ZG,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+209,2009,-6.0279126695,NY.GDP.PCAP.KD.ZG,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+210,2010,6.9196065669,NY.GDP.PCAP.KD.ZG,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+211,2011,9.5099831574,NY.GDP.PCAP.KD.ZG,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+212,2012,3.0931018228,NY.GDP.PCAP.KD.ZG,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+213,2013,6.6648836233,NY.GDP.PCAP.KD.ZG,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+214,2014,3.1680908236,NY.GDP.PCAP.KD.ZG,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+215,2015,4.3281277714,NY.GDP.PCAP.KD.ZG,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+216,2016,1.6424634094,NY.GDP.PCAP.KD.ZG,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+217,2017,5.7942644126000005,NY.GDP.PCAP.KD.ZG,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+218,2018,1.4495225184,NY.GDP.PCAP.KD.ZG,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+219,2019,-0.4279437372,NY.GDP.PCAP.KD.ZG,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+220,2020,0.6958731013,NY.GDP.PCAP.KD.ZG,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+221,2008,-1.0217030872,NY.GDP.PCAP.KD.ZG,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+222,2009,-4.9688882697,NY.GDP.PCAP.KD.ZG,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+223,2010,1.3339711593999999,NY.GDP.PCAP.KD.ZG,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+224,2011,0.6677560929,NY.GDP.PCAP.KD.ZG,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+225,2012,0.7667609190000001,NY.GDP.PCAP.KD.ZG,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+226,2013,1.2098996455,NY.GDP.PCAP.KD.ZG,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+227,2014,2.235458153,NY.GDP.PCAP.KD.ZG,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+228,2015,1.812661638,NY.GDP.PCAP.KD.ZG,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+229,2016,1.4913642994,NY.GDP.PCAP.KD.ZG,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+230,2017,1.4429293675000001,NY.GDP.PCAP.KD.ZG,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+231,2018,1.0368552194,NY.GDP.PCAP.KD.ZG,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+232,2019,1.0999959124,NY.GDP.PCAP.KD.ZG,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+233,2020,-9.6013403193,NY.GDP.PCAP.KD.ZG,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+234,2008,-0.8203678985,NY.GDP.PCAP.KD.ZG,USA,United States,North America,High income,Not classified
+235,2009,-3.4500159232,NY.GDP.PCAP.KD.ZG,USA,United States,North America,High income,Not classified
+236,2010,1.8602916781,NY.GDP.PCAP.KD.ZG,USA,United States,North America,High income,Not classified
+237,2011,0.8145193579000001,NY.GDP.PCAP.KD.ZG,USA,United States,North America,High income,Not classified
+238,2012,1.5331020354,NY.GDP.PCAP.KD.ZG,USA,United States,North America,High income,Not classified
+239,2013,1.1386923467,NY.GDP.PCAP.KD.ZG,USA,United States,North America,High income,Not classified
+240,2014,1.5403806487,NY.GDP.PCAP.KD.ZG,USA,United States,North America,High income,Not classified
+241,2015,1.9530041179,NY.GDP.PCAP.KD.ZG,USA,United States,North America,High income,Not classified
+242,2016,0.9333753617,NY.GDP.PCAP.KD.ZG,USA,United States,North America,High income,Not classified
+243,2017,1.6108080826,NY.GDP.PCAP.KD.ZG,USA,United States,North America,High income,Not classified
+244,2018,2.3784792229000002,NY.GDP.PCAP.KD.ZG,USA,United States,North America,High income,Not classified
+245,2019,1.8241244817000002,NY.GDP.PCAP.KD.ZG,USA,United States,North America,High income,Not classified
+246,2020,-4.3286177538,NY.GDP.PCAP.KD.ZG,USA,United States,North America,High income,Not classified
+247,2008,21.9,SI.DST.50MD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+248,2009,22.1,SI.DST.50MD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+249,2010,21.6,SI.DST.50MD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+250,2011,20.7,SI.DST.50MD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+251,2012,20.2,SI.DST.50MD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+252,2013,20.2,SI.DST.50MD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+253,2014,20.2,SI.DST.50MD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+254,2016,20.7,SI.DST.50MD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+255,2017,19.7,SI.DST.50MD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+256,2018,20.2,SI.DST.50MD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+257,2019,21.2,SI.DST.50MD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+258,2020,21.2,SI.DST.50MD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+259,2008,10.3,SI.DST.50MD,AUS,Australia,East Asia & Pacific,High income,Not classified
+260,2010,10.3,SI.DST.50MD,AUS,Australia,East Asia & Pacific,High income,Not classified
+261,2014,10.0,SI.DST.50MD,AUS,Australia,East Asia & Pacific,High income,Not classified
+262,2016,10.7,SI.DST.50MD,AUS,Australia,East Asia & Pacific,High income,Not classified
+263,2018,11.7,SI.DST.50MD,AUS,Australia,East Asia & Pacific,High income,Not classified
+264,2008,23.5,SI.DST.50MD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+265,2009,23.4,SI.DST.50MD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+266,2011,23.1,SI.DST.50MD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+267,2012,22.8,SI.DST.50MD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+268,2013,22.5,SI.DST.50MD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+269,2014,22.2,SI.DST.50MD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+270,2015,22.5,SI.DST.50MD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+271,2016,23.0,SI.DST.50MD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+272,2017,23.1,SI.DST.50MD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+273,2018,23.5,SI.DST.50MD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+274,2019,24.1,SI.DST.50MD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+275,2020,18.3,SI.DST.50MD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+276,2010,13.2,SI.DST.50MD,CAN,Canada,North America,High income,Not classified
+277,2012,14.2,SI.DST.50MD,CAN,Canada,North America,High income,Not classified
+278,2013,14.7,SI.DST.50MD,CAN,Canada,North America,High income,Not classified
+279,2014,13.7,SI.DST.50MD,CAN,Canada,North America,High income,Not classified
+280,2015,13.7,SI.DST.50MD,CAN,Canada,North America,High income,Not classified
+281,2016,12.7,SI.DST.50MD,CAN,Canada,North America,High income,Not classified
+282,2017,13.2,SI.DST.50MD,CAN,Canada,North America,High income,Not classified
+283,2008,9.8,SI.DST.50MD,FRA,France,Europe & Central Asia,High income,Not classified
+284,2009,11.1,SI.DST.50MD,FRA,France,Europe & Central Asia,High income,Not classified
+285,2010,10.3,SI.DST.50MD,FRA,France,Europe & Central Asia,High income,Not classified
+286,2011,9.9,SI.DST.50MD,FRA,France,Europe & Central Asia,High income,Not classified
+287,2012,10.1,SI.DST.50MD,FRA,France,Europe & Central Asia,High income,Not classified
+288,2013,9.8,SI.DST.50MD,FRA,France,Europe & Central Asia,High income,Not classified
+289,2014,10.1,SI.DST.50MD,FRA,France,Europe & Central Asia,High income,Not classified
+290,2015,10.8,SI.DST.50MD,FRA,France,Europe & Central Asia,High income,Not classified
+291,2016,10.4,SI.DST.50MD,FRA,France,Europe & Central Asia,High income,Not classified
+292,2017,10.1,SI.DST.50MD,FRA,France,Europe & Central Asia,High income,Not classified
+293,2018,10.0,SI.DST.50MD,FRA,France,Europe & Central Asia,High income,Not classified
+294,2008,8.5,SI.DST.50MD,DEU,Germany,Europe & Central Asia,High income,Not classified
+295,2009,9.2,SI.DST.50MD,DEU,Germany,Europe & Central Asia,High income,Not classified
+296,2010,9.2,SI.DST.50MD,DEU,Germany,Europe & Central Asia,High income,Not classified
+297,2011,9.0,SI.DST.50MD,DEU,Germany,Europe & Central Asia,High income,Not classified
+298,2012,9.7,SI.DST.50MD,DEU,Germany,Europe & Central Asia,High income,Not classified
+299,2013,9.7,SI.DST.50MD,DEU,Germany,Europe & Central Asia,High income,Not classified
+300,2014,10.5,SI.DST.50MD,DEU,Germany,Europe & Central Asia,High income,Not classified
+301,2015,10.5,SI.DST.50MD,DEU,Germany,Europe & Central Asia,High income,Not classified
+302,2016,11.0,SI.DST.50MD,DEU,Germany,Europe & Central Asia,High income,Not classified
+303,2017,10.7,SI.DST.50MD,DEU,Germany,Europe & Central Asia,High income,Not classified
+304,2018,10.5,SI.DST.50MD,DEU,Germany,Europe & Central Asia,High income,Not classified
+305,2008,13.4,SI.DST.50MD,ITA,Italy,Europe & Central Asia,High income,Not classified
+306,2009,13.7,SI.DST.50MD,ITA,Italy,Europe & Central Asia,High income,Not classified
+307,2010,14.5,SI.DST.50MD,ITA,Italy,Europe & Central Asia,High income,Not classified
+308,2011,14.7,SI.DST.50MD,ITA,Italy,Europe & Central Asia,High income,Not classified
+309,2012,14.2,SI.DST.50MD,ITA,Italy,Europe & Central Asia,High income,Not classified
+310,2013,14.8,SI.DST.50MD,ITA,Italy,Europe & Central Asia,High income,Not classified
+311,2014,15.2,SI.DST.50MD,ITA,Italy,Europe & Central Asia,High income,Not classified
+312,2015,16.1,SI.DST.50MD,ITA,Italy,Europe & Central Asia,High income,Not classified
+313,2016,15.7,SI.DST.50MD,ITA,Italy,Europe & Central Asia,High income,Not classified
+314,2017,16.0,SI.DST.50MD,ITA,Italy,Europe & Central Asia,High income,Not classified
+315,2018,15.2,SI.DST.50MD,ITA,Italy,Europe & Central Asia,High income,Not classified
+316,2008,15.7,SI.DST.50MD,JPN,Japan,East Asia & Pacific,High income,Not classified
+317,2010,8.7,SI.DST.50MD,JPN,Japan,East Asia & Pacific,High income,Not classified
+318,2013,9.1,SI.DST.50MD,JPN,Japan,East Asia & Pacific,High income,Not classified
+319,2008,13.0,SI.DST.50MD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+320,2010,12.5,SI.DST.50MD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+321,2012,13.0,SI.DST.50MD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+322,2014,12.5,SI.DST.50MD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+323,2016,12.2,SI.DST.50MD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+324,2008,20.0,SI.DST.50MD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+325,2010,17.7,SI.DST.50MD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+326,2012,18.1,SI.DST.50MD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+327,2014,16.4,SI.DST.50MD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+328,2016,17.5,SI.DST.50MD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+329,2018,16.9,SI.DST.50MD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+330,2020,17.0,SI.DST.50MD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+331,2008,14.0,SI.DST.50MD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+332,2009,13.3,SI.DST.50MD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+333,2010,13.2,SI.DST.50MD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+334,2011,12.9,SI.DST.50MD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+335,2012,12.7,SI.DST.50MD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+336,2013,12.5,SI.DST.50MD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+337,2014,12.0,SI.DST.50MD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+338,2015,11.6,SI.DST.50MD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+339,2016,11.8,SI.DST.50MD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+340,2017,11.3,SI.DST.50MD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+341,2018,10.8,SI.DST.50MD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+342,2019,10.9,SI.DST.50MD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+343,2020,9.8,SI.DST.50MD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+344,2008,22.4,SI.DST.50MD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+345,2010,23.5,SI.DST.50MD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+346,2014,23.5,SI.DST.50MD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+347,2008,17.6,SI.DST.50MD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+348,2009,16.9,SI.DST.50MD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+349,2010,16.5,SI.DST.50MD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+350,2011,15.9,SI.DST.50MD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+351,2012,16.0,SI.DST.50MD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+352,2013,16.3,SI.DST.50MD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+353,2014,15.7,SI.DST.50MD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+354,2015,15.6,SI.DST.50MD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+355,2016,16.0,SI.DST.50MD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+356,2017,15.6,SI.DST.50MD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+357,2018,15.6,SI.DST.50MD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+358,2019,17.3,SI.DST.50MD,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+359,2008,11.8,SI.DST.50MD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+360,2009,12.7,SI.DST.50MD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+361,2010,11.6,SI.DST.50MD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+362,2011,12.2,SI.DST.50MD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+363,2012,11.9,SI.DST.50MD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+364,2013,13.1,SI.DST.50MD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+365,2014,13.1,SI.DST.50MD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+366,2015,11.3,SI.DST.50MD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+367,2016,12.7,SI.DST.50MD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+368,2017,14.0,SI.DST.50MD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+369,2008,18.2,SI.DST.50MD,USA,United States,North America,High income,Not classified
+370,2009,17.5,SI.DST.50MD,USA,United States,North America,High income,Not classified
+371,2010,18.0,SI.DST.50MD,USA,United States,North America,High income,Not classified
+372,2011,18.0,SI.DST.50MD,USA,United States,North America,High income,Not classified
+373,2012,18.2,SI.DST.50MD,USA,United States,North America,High income,Not classified
+374,2013,18.0,SI.DST.50MD,USA,United States,North America,High income,Not classified
+375,2014,17.0,SI.DST.50MD,USA,United States,North America,High income,Not classified
+376,2015,17.2,SI.DST.50MD,USA,United States,North America,High income,Not classified
+377,2016,18.0,SI.DST.50MD,USA,United States,North America,High income,Not classified
+378,2017,18.2,SI.DST.50MD,USA,United States,North America,High income,Not classified
+379,2018,18.2,SI.DST.50MD,USA,United States,North America,High income,Not classified
+380,2019,18.5,SI.DST.50MD,USA,United States,North America,High income,Not classified
