@@ -39,7 +39,7 @@ Here I want to check wether the econominc growth of a country reduce the poverty
 - lineplot: Here the line plot shows the people living with the median income among the countries
 <img src = "https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/blob/main/data690_world_dev/charts/lineplot(2008-2020).png">
 
-- Scatter Plot: Here it shows the comparison between 14 countries. Where it shows the GDP per capita with respect to the year 2010.
+- Scatter Plot: Here it shows the comparison between 14 countries. Where it shows the GDP per capita with respect to the year 2010. It also shows the comparison of both indicators in different countries in different percentages and values.
 <img src = "https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/blob/main/data690_world_dev/charts/gdp%20percapita%20scattrerplot(2010).png">
 
 ### Conclusion:
